@@ -45,11 +45,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
+global.sig = 'https://instagram.com/isand_gt'
 global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.sgc = 'https://chat.whatsapp.com/H6nCsR94Z9c5isfsfPRSwP'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
 global.pdana = '089514488699'
